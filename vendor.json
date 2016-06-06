@@ -78,6 +78,12 @@
 			"versionExact": "v1.6.1"
 		},
 		{
+			"checksumSHA1": "tYKwjWd3cFndRWQQLl7pfwTXzOQ=",
+			"path": "github.com/astaxie/beego/validation",
+			"revision": "88c5dfa6ead42e624c2e7d9e04eab6cb2d07412a",
+			"revisionTime": "2016-03-23T09:05:40Z"
+		},
+		{
 			"checksumSHA1": "EjForbTT6+KOKNBAs0Zzgm7s+IE=",
 			"path": "github.com/beego/i18n",
 			"revision": "e87155e8f0c05bf323d0b13470e1b97af0cb5652",
@@ -204,6 +210,12 @@
 			"revisionTime": "2016-06-01T05:06:53Z"
 		},
 		{
+			"checksumSHA1": "sKfYQurIIt+ldKDDF7TRbg9w20I=",
+			"path": "github.com/pquerna/ffjson/ffjson",
+			"revision": "fa49a9f5832ba121db144795c147fe8449124aeb",
+			"revisionTime": "2016-05-11T19:28:55Z"
+		},
+		{
 			"checksumSHA1": "/uY2kG1q8PSSfFoJUmeJ0D+zZPI=",
 			"path": "github.com/pquerna/ffjson/fflib/v1",
 			"revision": "674bc015b5b3f50f9bb2561179778586b9af68c5",
@@ -314,6 +326,18 @@
 			"checksumSHA1": "Tzkg2vggWA776PuDrZiAGWKqWvU=",
 			"path": "golang.org/x/net/context",
 			"revision": ""
+		},
+		{
+			"checksumSHA1": "fM4WdkntKMguuHjBhvk/qACJ3QA=",
+			"path": "gopkg.in/alexcesaro/quotedprintable.v3",
+			"revision": "2caba252f4dc53eaf6b553000885530023f54623",
+			"revisionTime": "2015-07-16T17:19:45Z"
+		},
+		{
+			"checksumSHA1": "avLNreOcKkPxEnkswUbJYnpbeg8=",
+			"path": "gopkg.in/gomail.v2",
+			"revision": "81ebce5c23dfd25c6c67194b37d3dd3f338c98b1",
+			"revisionTime": "2016-04-11T21:29:32Z"
 		}
 	],
 	"rootPath": "github.com/JREAMLU"
