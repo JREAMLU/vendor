@@ -102,6 +102,12 @@
 			"revisionTime": "2016-02-19T21:45:06Z"
 		},
 		{
+			"checksumSHA1": "BmVDM5Ix5LwG+suq+uCK9v0rb4c=",
+			"path": "github.com/freshcn/async",
+			"revision": "c3953276c8fc222c13d454dee39e2eed6ba3f5ed",
+			"revisionTime": "2016-02-20T10:55:33Z"
+		},
+		{
 			"checksumSHA1": "CugKDIiTN7Xl2ID3yQ17ytRmNOY=",
 			"path": "github.com/garyburd/redigo/internal",
 			"revision": "b8dc90050f24c1a73a52f107f3f575be67b21b7c",
