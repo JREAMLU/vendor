@@ -304,6 +304,12 @@
 			"revisionTime": "2016-05-14T12:23:48Z"
 		},
 		{
+			"checksumSHA1": "I6QFhfAwgZdkDtaJL1ThoQxol1s=",
+			"path": "github.com/mssola/user_agent",
+			"revision": "8e786bcb38b846e5eb8eb5f036d9144fc7b0a1f8",
+			"revisionTime": "2016-01-29T19:27:38Z"
+		},
+		{
 			"checksumSHA1": "UwhLtKi/lHjArxgsqRe6iqSEu3I=",
 			"path": "github.com/onsi/ginkgo",
 			"revision": "5437a97bf824dec14e58d68c56ee36e772670c2e",
