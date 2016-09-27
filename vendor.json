@@ -36,79 +36,84 @@
 			"revisionTime": "2016-02-16T18:39:35Z"
 		},
 		{
-			"checksumSHA1": "MXHymZ1YvN8keS+i7MlSNf2r9Ps=",
+			"checksumSHA1": "BU1xVwB5wQmLdKJqP4t1DZf3wM4=",
 			"path": "github.com/astaxie/beego",
-			"revision": "3672f96a9d832c044565b5c0a92af8bac7fd237c",
-			"revisionTime": "2016-08-17T14:56:21Z",
-			"version": "v1.7.0",
-			"versionExact": "v1.7.0"
-		},
-		{
-			"path": "github.com/astaxie/beego*",
-			"revision": "v1.7.0",
-			"version": "v1.7.0"
+			"revision": "2d87d4feafeea0a133d217a82e6e02df0348fed5",
+			"revisionTime": "2016-09-22T15:18:45Z",
+			"version": "v1.7.1",
+			"versionExact": "v1.7.1"
 		},
 		{
 			"checksumSHA1": "TU0X7z3nzCg2XaTIncBnjBkMhow=",
 			"path": "github.com/astaxie/beego/config",
-			"revision": "3672f96a9d832c044565b5c0a92af8bac7fd237c",
-			"revisionTime": "2016-08-17T14:56:21Z",
-			"version": "v1.7.0",
-			"versionExact": "v1.7.0"
+			"revision": "2d87d4feafeea0a133d217a82e6e02df0348fed5",
+			"revisionTime": "2016-09-22T15:18:45Z",
+			"version": "v1.7.1",
+			"versionExact": "v1.7.1"
 		},
 		{
-			"checksumSHA1": "DUwbsl0vFoEdbIXJoBTH8PYf8Zg=",
+			"checksumSHA1": "zIaEbK4ulDuy6StGE2TV3WpYG38=",
 			"path": "github.com/astaxie/beego/context",
-			"revision": "3672f96a9d832c044565b5c0a92af8bac7fd237c",
-			"revisionTime": "2016-08-17T14:56:21Z",
-			"version": "v1.7.0",
-			"versionExact": "v1.7.0"
+			"revision": "2d87d4feafeea0a133d217a82e6e02df0348fed5",
+			"revisionTime": "2016-09-22T15:18:45Z",
+			"version": "v1.7.1",
+			"versionExact": "v1.7.1"
 		},
 		{
 			"checksumSHA1": "PDNn16w89zWODshT9zlPzSmWZFA=",
 			"path": "github.com/astaxie/beego/grace",
-			"revision": "3672f96a9d832c044565b5c0a92af8bac7fd237c",
-			"revisionTime": "2016-08-17T14:56:21Z",
-			"version": "v1.7.0",
-			"versionExact": "v1.7.0"
+			"revision": "2d87d4feafeea0a133d217a82e6e02df0348fed5",
+			"revisionTime": "2016-09-22T15:18:45Z",
+			"version": "v1.7.1",
+			"versionExact": "v1.7.1"
 		},
 		{
-			"checksumSHA1": "rSX3Z62I69oxETAPMcrTQIfb8Jc=",
+			"checksumSHA1": "3/36mqvnkhoei6qxey4BVtvA5n4=",
 			"path": "github.com/astaxie/beego/logs",
-			"revision": "3672f96a9d832c044565b5c0a92af8bac7fd237c",
-			"revisionTime": "2016-08-17T14:56:21Z",
-			"version": "v1.7.0",
-			"versionExact": "v1.7.0"
+			"revision": "2d87d4feafeea0a133d217a82e6e02df0348fed5",
+			"revisionTime": "2016-09-22T15:18:45Z",
+			"version": "v1.7.1",
+			"versionExact": "v1.7.1"
 		},
 		{
-			"checksumSHA1": "z0QwXE8aKcNqVrwH8JSrmukIISk=",
+			"checksumSHA1": "B2vLsyjKwlfKCXFcu/nq8uBHXbk=",
 			"path": "github.com/astaxie/beego/session",
-			"revision": "3672f96a9d832c044565b5c0a92af8bac7fd237c",
-			"revisionTime": "2016-08-17T14:56:21Z",
-			"version": "v1.7.0",
-			"versionExact": "v1.7.0"
+			"revision": "2d87d4feafeea0a133d217a82e6e02df0348fed5",
+			"revisionTime": "2016-09-22T15:18:45Z",
+			"version": "v1.7.1",
+			"versionExact": "v1.7.1"
 		},
 		{
-			"checksumSHA1": "ZYpCDk69tf+pYo0m5iyVrcxD8IU=",
+			"checksumSHA1": "j1Dpfp0VbHsntjdoUt/V9xWEJxk=",
 			"path": "github.com/astaxie/beego/toolbox",
-			"revision": "3672f96a9d832c044565b5c0a92af8bac7fd237c",
-			"revisionTime": "2016-08-17T14:56:21Z",
-			"version": "v1.7.0",
-			"versionExact": "v1.7.0"
+			"revision": "2d87d4feafeea0a133d217a82e6e02df0348fed5",
+			"revisionTime": "2016-09-22T15:18:45Z",
+			"version": "v1.7.1",
+			"versionExact": "v1.7.1"
 		},
 		{
 			"checksumSHA1": "4/Sv2UjCrVhMMy2wc8tZLa/QBdE=",
 			"path": "github.com/astaxie/beego/utils",
-			"revision": "3672f96a9d832c044565b5c0a92af8bac7fd237c",
-			"revisionTime": "2016-08-17T14:56:21Z",
-			"version": "v1.7.0",
-			"versionExact": "v1.7.0"
+			"revision": "2d87d4feafeea0a133d217a82e6e02df0348fed5",
+			"revisionTime": "2016-09-22T15:18:45Z",
+			"version": "v1.7.1",
+			"versionExact": "v1.7.1"
+		},
+		{
+			"checksumSHA1": "Zgx02EVplAmfwWF4suiouSuhRZQ=",
+			"path": "github.com/astaxie/beego/validation",
+			"revision": "2d87d4feafeea0a133d217a82e6e02df0348fed5",
+			"revisionTime": "2016-09-22T15:18:45Z"
 		},
 		{
 			"checksumSHA1": "EjForbTT6+KOKNBAs0Zzgm7s+IE=",
 			"path": "github.com/beego/i18n",
 			"revision": "e87155e8f0c05bf323d0b13470e1b97af0cb5652",
 			"revisionTime": "2014-06-04T03:18:26Z"
+		},
+		{
+			"path": "github.com/beego/validation",
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "39c+shSLmvturiMmkG4MjIFQQB4=",
