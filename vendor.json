@@ -326,6 +326,12 @@
 			"revisionTime": "2016-05-14T12:23:48Z"
 		},
 		{
+			"checksumSHA1": "gsK7TmGDJnRHuJvWn1ub7tV5mTg=",
+			"path": "github.com/mohong122/ip2region/binding/golang",
+			"revision": "075535747447e268758ba068fc7dff9d1b462adf",
+			"revisionTime": "2016-10-20T07:19:07Z"
+		},
+		{
 			"checksumSHA1": "I6QFhfAwgZdkDtaJL1ThoQxol1s=",
 			"path": "github.com/mssola/user_agent",
 			"revision": "8e786bcb38b846e5eb8eb5f036d9144fc7b0a1f8",
