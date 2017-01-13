@@ -16,6 +16,12 @@
 			"revision": ""
 		},
 		{
+			"checksumSHA1": "HyoKkpkPoyJwnhE6HVYoxRBwoo4=",
+			"path": "github.com/BurntSushi/toml",
+			"revision": "99064174e013895bbd9b025c31100bd1d9b590ca",
+			"revisionTime": "2016-07-17T15:07:09Z"
+		},
+		{
 			"checksumSHA1": "shs1LMMU4VVcW8vV/lelGp8GNAY=",
 			"path": "github.com/Shopify/sarama",
 			"revision": "38d579a708d2f87dd4e35342241048e361d1e66a",
@@ -50,6 +56,12 @@
 			"revisionTime": "2016-09-22T15:18:45Z",
 			"version": "v1.7.1",
 			"versionExact": "v1.7.1"
+		},
+		{
+			"checksumSHA1": "JxIFm6B39GUem32qiVIcW0vbbI4=",
+			"path": "github.com/astaxie/beego/config/yaml",
+			"revision": "90999717dda6193c6f970eec52e289b0a9e74998",
+			"revisionTime": "2016-12-05T15:14:26Z"
 		},
 		{
 			"checksumSHA1": "zIaEbK4ulDuy6StGE2TV3WpYG38=",
@@ -104,6 +116,12 @@
 			"path": "github.com/astaxie/beego/validation",
 			"revision": "2d87d4feafeea0a133d217a82e6e02df0348fed5",
 			"revisionTime": "2016-09-22T15:18:45Z"
+		},
+		{
+			"checksumSHA1": "wvNxTnan0rse6rQbmO9cK1Xtj7U=",
+			"path": "github.com/beego/goyaml2",
+			"revision": "5545475820ddd4db3f90a4900d44b65d077d702d",
+			"revisionTime": "2013-02-07T01:23:46Z"
 		},
 		{
 			"checksumSHA1": "EjForbTT6+KOKNBAs0Zzgm7s+IE=",
@@ -648,6 +666,12 @@
 			"path": "github.com/thinkboy/log4go",
 			"revision": "f91a411e4a181d8156571e4d02a376d1e36b89e4",
 			"revisionTime": "2016-03-03T04:50:50Z"
+		},
+		{
+			"checksumSHA1": "H6nIE8MPPxWw3YP/3/JuxkW4n84=",
+			"path": "github.com/wendal/errors",
+			"revision": "f66c77a7882b399795a8987ebf87ef64a427417e",
+			"revisionTime": "2013-02-01T09:32:26Z"
 		},
 		{
 			"checksumSHA1": "n7PbYTULWVQXhoeuf1uZOcMxwf8=",
